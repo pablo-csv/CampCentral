@@ -1,7 +1,7 @@
 Lunch:
     - Macarroni with tomato sauce
     - Pork chops
-    - Yogourt
+    - Yogurt
 
 Dinner:
     - French omelette
