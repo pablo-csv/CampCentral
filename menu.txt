@@ -6,4 +6,4 @@ Lunch:
 Dinner:
     - French omelette
     - Sausages with peas
-    - Fruit
+    - Fruit: orange or banana
