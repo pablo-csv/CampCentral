@@ -1,0 +1,9 @@
+Lunch:
+    - Macarroni with tomato sauce
+    - Pork chops
+    - Yogourt
+
+Dinner:
+    - French omelette
+    - Sausages with peas
+    - Fruit
