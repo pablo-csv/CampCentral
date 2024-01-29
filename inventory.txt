@@ -1,5 +1,5 @@
-Scissors: 1
-Balls: 1
+Scissors: 2
+Balls: 2
 Hoses: 0
 Mops: 0
 Pens: 0
