@@ -1,7 +1,7 @@
-Scissors: 4
+Scissors: 2
 Balls: 2
-Hoses: 3
-Mops: 1
+Hoses: 2
+Mops: 2
 Pens: 2
 Stools: 1
 Tables: 0
