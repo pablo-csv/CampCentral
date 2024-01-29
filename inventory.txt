@@ -1,9 +1,9 @@
 Scissors: 3
-Balls: 3
+Balls: 2
 Hoses: 2
 Mops: 1
-Pens: 2
-Stools: 0
+Pens: 3
+Stools: 1
 Tables: 0
 Ladders: 0
 Bottles: 0
