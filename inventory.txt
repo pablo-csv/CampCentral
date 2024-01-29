@@ -16,5 +16,7 @@ Chairs: 15
 Dishes: 16
 Glasses: 17
 Knives: 18
+Sunscreen: 19
+T-shirts: 20
 
 
