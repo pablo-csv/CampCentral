@@ -18,4 +18,3 @@ Glasses: 0
 Knives: 0
 Sunscreen: 0
 T-shirts: 0
-yeat: 2
