@@ -1,0 +1,20 @@
+Scissors: 1
+Balls: 2
+Hoses: 3
+Mops: 4
+Pens: 5
+Stools: 6
+Tables: 7
+Ladders: 8
+Bottles: 9
+Jars: 10
+Toilet paper: 11
+Brooms: 12
+Whistles: 13
+Buckets: 14
+Chairs: 15
+Dishes: 16
+Glasses: 17
+Knives: 18
+
+
