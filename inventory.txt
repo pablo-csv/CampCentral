@@ -1,6 +1,6 @@
 Scissors: 3
 Balls: 2
-Hoses: 2
+Hoses: 3
 Mops: 1
 Pens: 3
 Stools: 1
