@@ -18,3 +18,4 @@ Glasses: 44
 Knives: 31
 Sunscreen: 5
 T-shirts: 15
+calabacines: 0
