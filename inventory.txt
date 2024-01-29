@@ -1,20 +1,20 @@
-Scissors: 1
+Scissors: 8
 Balls: 2
 Hoses: 3
-Mops: 4
-Pens: 5
+Mops: 5
+Pens: 34
 Stools: 6
-Tables: 7
+Tables: 4
 Ladders: 8
 Bottles: 9
 Jars: 10
-Toilet paper: 11
+Toilet paper: 3
 Brooms: 12
-Whistles: 13
+Whistles: 1
 Buckets: 14
 Chairs: 15
-Dishes: 16
-Glasses: 17
+Dishes: 25
+Glasses: 1
 Knives: 18
 Sunscreen: 19
 T-shirts: 20
