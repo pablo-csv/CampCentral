@@ -3,7 +3,7 @@ Balls: 2
 Hoses: 2
 Mops: 2
 Pens: 2
-Stools: 1
+Stools: 2
 Tables: 0
 Ladders: 0
 Bottles: 0
