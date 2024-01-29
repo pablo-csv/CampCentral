@@ -1,5 +1,5 @@
 Scissors: 1
-Balls: 0
+Balls: 1
 Hoses: 0
 Mops: 0
 Pens: 0
@@ -20,7 +20,7 @@ Sunscreen: 0
 T-shirts: 0
 yeat: 2
 Scissors: 1
-Balls: 0
+Balls: 1
 Hoses: 0
 Mops: 0
 Pens: 0
@@ -41,7 +41,7 @@ Sunscreen: 0
 T-shirts: 0
 yeat: 2
 Scissors: 1
-Balls: 0
+Balls: 1
 Hoses: 0
 Mops: 0
 Pens: 0
@@ -62,7 +62,7 @@ Sunscreen: 0
 T-shirts: 0
 yeat: 2
 Scissors: 1
-Balls: 0
+Balls: 1
 Hoses: 0
 Mops: 0
 Pens: 0
