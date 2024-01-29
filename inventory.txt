@@ -1,8 +1,8 @@
-Scissors: 3
-Balls: 1
+Scissors: 4
+Balls: 2
 Hoses: 3
-Mops: 3
-Pens: 1
+Mops: 1
+Pens: 2
 Stools: 1
 Tables: 0
 Ladders: 0
