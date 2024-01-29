@@ -19,4 +19,4 @@ Knives: 31
 Sunscreen: 5
 T-shirts: 15
 calabacines: 26
-tartaaaaas: 0
+tartaaaaas: 5
