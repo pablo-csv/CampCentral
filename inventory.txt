@@ -20,5 +20,6 @@ Sunscreen: 5
 T-shirts: 15
 calabacines: 26
 tartaaaaas: 21
-besitos para kachu: 147
-besitos para botaaa: 52839922628
+besitos para kachu: 146
+besitos para botaaa: 52839922627
+hola: 0
