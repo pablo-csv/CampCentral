@@ -1,4 +1,4 @@
-Scissors: 7
+Scissors: 8
 Balls: 12
 Hoses: 4
 Mops: 3
